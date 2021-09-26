@@ -13,7 +13,7 @@ wc -w *
 # pretty verbose
 
 # To avoid having to scroll down a long list of files, you can "pipe" or pass 
-# the output directly into a grep command grep can be used to show all the 
+# the output of wc directly into a grep command. Grep can be used to show all the 
 # lines of output that don't contain "100", or "total" in the case of the 
 # final line of output from wc, like so: 
  
